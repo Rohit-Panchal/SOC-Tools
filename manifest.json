@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "SOCTool",
+  "version": "1.0",
+  "description": "An extension that opens selected text in a new tab with www.example.com prefix",
+  "icons": {
+	  "64" : "logo.png"
+  },
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
+
+

@@ -1,5 +1,5 @@
 # SOC-Tools
-Certainly! Here's a concise one-sentence "SOCTool" a Chrome/edge extension for streamlined IP analysis, integrating SPUR, geolocation, VirusTotal, and other tools for enhanced security operations.
+"SOCTool" a Chrome/edge extension for streamlined IP analysis, integrating SPUR, geolocation, VirusTotal, and other tools for enhanced security operations.
 # SOC Helper Browser Extension
 
 The SOC Helper browser extension is a powerful tool that allows you to streamline IP analysis tasks by integrating various services, including SPUR, geolocation, VirusTotal, and more.
